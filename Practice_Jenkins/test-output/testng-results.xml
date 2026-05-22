@@ -8,12 +8,12 @@
       <![CDATA[>>>>>>>>>>>Hi from jenkins2*************<<<<<<<<<<<<<]]>
     </line>
   </reporter-output>
-  <suite started-at="2026-05-06T11:43:18 IST" name="Default suite" finished-at="2026-05-06T11:43:18 IST" duration-ms="122">
+  <suite started-at="2026-05-22T16:17:44 IST" name="Default suite" finished-at="2026-05-22T16:17:44 IST" duration-ms="135">
     <groups>
     </groups>
-    <test started-at="2026-05-06T11:43:18 IST" name="Default test" finished-at="2026-05-06T11:43:18 IST" duration-ms="122">
+    <test started-at="2026-05-22T16:17:44 IST" name="Default test" finished-at="2026-05-22T16:17:44 IST" duration-ms="135">
       <class name="demoJenkins.DemoJenkinsTest">
-        <test-method signature="test()[pri:0, instance:demoJenkins.DemoJenkinsTest@2d7275fc]" started-at="2026-05-06T11:43:18 IST" name="test" finished-at="2026-05-06T11:43:18 IST" duration-ms="19" status="PASS">
+        <test-method signature="test()[pri:0, instance:demoJenkins.DemoJenkinsTest@2d7275fc]" started-at="2026-05-22T16:17:44 IST" name="test" finished-at="2026-05-22T16:17:44 IST" duration-ms="34" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[>>>>>>>>>>>Hi from jenkins1*************<<<<<<<<<<<<<]]>
