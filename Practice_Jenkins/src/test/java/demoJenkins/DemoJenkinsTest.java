@@ -12,7 +12,9 @@ public void test() {
 	Reporter.log(">>>>>>>>>>>Hi from jenkins2*************<<<<<<<<<<<<<",true);	
 	
 	
-	
 	Reporter.log(">>>>>>>>>>>Hi from jenkins3*************<<<<<<<<<<<<<",true);	
+	
+	Reporter.log(">>>>>>>>>>>Hi from jenkins4*************<<<<<<<<<<<<<",true);	
+	
 }
 }
